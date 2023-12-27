@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-noto-sans-javanese: "Noto Sans Javanese";
+
+  /* font sizes */
+  --font-size-4xl-8: 23.8px;
+  --font-size-3xs-6: 9.6px;
+  --font-size-smi-1: 12.1px;
+  --font-size-3xs-5: 9.5px;
+  --font-size-6xs-9: 6.9px;
+  --font-size-base-6: 16.6px;
+  --font-size-sm-1: 13.1px;
+  --font-size-sm-6: 13.6px;
+  --font-size-4xl-7: 23.7px;
+  --font-size-mid-6: 17.6px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkgray-100: #b1b1b1;
+  --color-darkgray-200: #9f9f9f;
+  --color-silver: #bbb8b8;
+  --color-darkslategray: #303030;
+
+  /* Border radiuses */
+  --br-12xs-4: 0.4px;
+  --br-2xl-2: 21.2px;
+}

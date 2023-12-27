@@ -1,0 +1,619 @@
+.d {
+  position: absolute;
+  top: 19.19px;
+  left: 14.2px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 49.23px;
+  height: 37.87px;
+}
+.d-mode-icon-child {
+  position: absolute;
+  top: 0;
+  left: 35.03px;
+  width: 35.97px;
+  height: 27.71px;
+  object-fit: cover;
+}
+.d-mode-icon-item {
+  position: absolute;
+  top: 44.49px;
+  left: 0;
+  width: 35.03px;
+  height: 28.66px;
+  object-fit: contain;
+}
+.d-mode-icon {
+  position: absolute;
+  top: 10px;
+  left: 610px;
+  width: 71px;
+  height: 73.15px;
+  text-align: left;
+  font-size: 31.5px;
+  font-family: var(--font-noto-sans-javanese);
+}
+.p11-child {
+  position: absolute;
+  top: 954.97px;
+  left: 0;
+  background-color: #151515;
+  width: 1268.7px;
+  height: 297.79px;
+}
+.holo-logo,
+.logo-icon {
+  position: absolute;
+  width: 153.3px;
+  height: 153.3px;
+}
+.logo-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.holo-logo {
+  top: 979.72px;
+  left: 223.79px;
+}
+.fees,
+.press,
+.team {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+.fees,
+.press {
+  top: 65.2px;
+}
+.fees {
+  top: 130.39px;
+  left: 0.88px;
+}
+.team-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 156.39px;
+}
+.links,
+.services-parent,
+.terms-of-use-parent {
+  position: absolute;
+  top: 0;
+  left: 141.85px;
+  width: 67px;
+  height: 156.39px;
+}
+.links,
+.terms-of-use-parent {
+  left: 305.72px;
+  width: 109px;
+}
+.links {
+  top: 1025.53px;
+  left: 624.66px;
+  width: 414.72px;
+  text-align: left;
+  font-size: 17.62px;
+  font-family: var(--font-roboto);
+}
+.all-right-reserved {
+  margin: 0;
+}
+.copyright-2023-container {
+  position: absolute;
+  top: 1113.64px;
+  left: 217.62px;
+  font-size: 17.62px;
+  line-height: 150%;
+  font-family: var(--font-roboto);
+  text-align: left;
+}
+.hamburger-child {
+  position: absolute;
+  top: 95.35px;
+  left: 20.46px;
+  border-radius: 21.15px;
+  background-color: var(--color-darkslategray);
+  width: 133.04px;
+  height: 140.97px;
+}
+.hamburger-with-lot-vegetables-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 175.72px;
+  height: 175.72px;
+  object-fit: contain;
+}
+.hamburger1 {
+  position: absolute;
+  top: 0;
+  left: 8.81px;
+  display: inline-block;
+  text-align: left;
+  width: 92.51px;
+  height: 19.38px;
+}
+.p,
+.starting-from {
+  margin-block-start: 0;
+  margin-block-end: 0.88px;
+}
+.p {
+  font-size: var(--font-size-sm-1);
+  color: var(--color-white);
+}
+.p1 {
+  margin: 0;
+  font-size: var(--font-size-base-6);
+}
+.starting-from-container {
+  position: absolute;
+  top: 22.03px;
+  left: 13.22px;
+  display: inline-block;
+  width: 83.7px;
+  height: 31.72px;
+  font-size: var(--font-size-3xs-6);
+  color: var(--color-darkgray-100);
+}
+.span {
+  color: var(--color-darkgray-200);
+}
+.p2,
+.total-sale1 {
+  margin-block-start: 0;
+  margin-block-end: 0.64px;
+}
+.total-sale1 {
+  font-size: var(--font-size-3xs-5);
+  color: var(--color-white);
+}
+.p3 {
+  margin: 0;
+  font-size: var(--font-size-smi-1);
+}
+.div,
+.total-sale {
+  position: absolute;
+  display: inline-block;
+}
+.total-sale {
+  top: 53.24px;
+  left: 51.1px;
+  text-align: right;
+  width: 60.79px;
+  height: 23.04px;
+  font-size: var(--font-size-6xs-9);
+  color: var(--color-silver);
+}
+.div {
+  top: 59.91px;
+  left: 8.81px;
+  font-size: 9.57px;
+  color: var(--color-darkgray-200);
+  width: 24.67px;
+  height: 10.57px;
+}
+.hamburger-price-child {
+  position: absolute;
+  top: 59.03px;
+  left: 0;
+  border-radius: 0.44px;
+  width: 11.45px;
+  height: 11.45px;
+  object-fit: cover;
+}
+.hamburger-price {
+  position: absolute;
+  top: 150.86px;
+  left: 31.92px;
+  width: 111.89px;
+  height: 76.28px;
+}
+.hamburger,
+.pizza-child {
+  position: absolute;
+  top: 681px;
+  left: -0.3px;
+  width: 175.72px;
+  height: 236.32px;
+}
+.pizza-child {
+  top: 66.08px;
+  left: 21.14px;
+  border-radius: 21.15px;
+  background-color: var(--color-darkslategray);
+  width: 133.04px;
+  height: 140.97px;
+}
+.f-560708240-pmzpousfvblwgroaiz-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 181.5px;
+  height: 121px;
+  object-fit: cover;
+}
+.pizza1 {
+  position: absolute;
+  top: 0;
+  left: 8.81px;
+  display: inline-block;
+  width: 92.51px;
+  height: 19.38px;
+}
+.pizza-price {
+  position: absolute;
+  top: 121.58px;
+  left: 31.72px;
+  width: 111.89px;
+  height: 76.28px;
+}
+.pizza,
+.sushi-child {
+  position: absolute;
+  top: 710.27px;
+  left: 236.43px;
+  width: 181.5px;
+  height: 207.05px;
+}
+.sushi-child {
+  top: 34.24px;
+  left: 6.17px;
+  border-radius: 21.15px;
+  background-color: var(--color-darkslategray);
+  width: 133.04px;
+  height: 140.97px;
+}
+.sushi-price {
+  position: absolute;
+  top: 89.74px;
+  left: 16.74px;
+  width: 111.89px;
+  height: 76.28px;
+}
+.fresh-seafood-plate-with-sashi-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 146.25px;
+  height: 83.64px;
+  object-fit: cover;
+}
+.sushi {
+  position: absolute;
+  top: 742.11px;
+  left: 478.92px;
+  width: 146.25px;
+  height: 175.21px;
+}
+.fried-fish-child {
+  position: absolute;
+  top: 88.99px;
+  left: 7.05px;
+  border-radius: 21.15px;
+  background-color: var(--color-darkslategray);
+  width: 133.04px;
+  height: 140.97px;
+}
+.starting-from-container3 {
+  position: absolute;
+  top: 22.03px;
+  left: 13.21px;
+  display: inline-block;
+  width: 83.7px;
+  height: 31.72px;
+  font-size: var(--font-size-3xs-6);
+  color: var(--color-darkgray-100);
+}
+.fried-fish-price {
+  position: absolute;
+  top: 142.73px;
+  left: 17.62px;
+  width: 111.89px;
+  height: 76.28px;
+}
+.grilled-salmon-delicious-food-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140.97px;
+  height: 142.73px;
+  object-fit: cover;
+}
+.fried-fish,
+.thali-child {
+  position: absolute;
+  top: 689.13px;
+  left: 686.17px;
+  width: 140.97px;
+  height: 229.95px;
+}
+.thali-child {
+  top: 59.22px;
+  left: 22.06px;
+  border-radius: 27.87px;
+  background-color: var(--color-darkslategray);
+  width: 175.33px;
+  height: 185.78px;
+}
+.thali1 {
+  position: absolute;
+  top: 0;
+  left: 11.7px;
+  display: inline-block;
+  width: 122.88px;
+  height: 25.55px;
+}
+.p17,
+.starting-from4 {
+  margin-block-start: 0;
+  margin-block-end: 1.16px;
+}
+.p17 {
+  font-size: 17.3px;
+  color: var(--color-white);
+}
+.p18 {
+  margin: 0;
+  font-size: var(--font-size-2xl-9);
+}
+.starting-from-container4 {
+  position: absolute;
+  top: 29.03px;
+  left: 17.55px;
+  display: inline-block;
+  width: 111.18px;
+  height: 41.8px;
+  font-size: 12.6px;
+  color: var(--color-darkgray-100);
+}
+.p19,
+.total-sale9 {
+  margin-block-start: 0;
+  margin-block-end: 0.84px;
+}
+.total-sale9 {
+  font-size: 12.5px;
+  color: var(--color-white);
+}
+.p20 {
+  margin: 0;
+  font-size: 15.9px;
+}
+.div4,
+.total-sale8 {
+  position: absolute;
+  display: inline-block;
+}
+.total-sale8 {
+  top: 70.16px;
+  left: 67.88px;
+  text-align: right;
+  width: 80.75px;
+  height: 30.36px;
+  font-size: 9.2px;
+  color: var(--color-silver);
+}
+.div4 {
+  top: 78.96px;
+  left: 11.7px;
+  font-size: 12.61px;
+  color: var(--color-darkgray-200);
+  width: 32.77px;
+  height: 13.93px;
+}
+.thali-price-child {
+  position: absolute;
+  top: 77.8px;
+  left: 0;
+  border-radius: 0.58px;
+  width: 15.21px;
+  height: 15.09px;
+  object-fit: cover;
+}
+.thali-price {
+  position: absolute;
+  top: 130.05px;
+  left: 35.99px;
+  width: 148.63px;
+  height: 100.52px;
+}
+.gourmet-bowl-with-healthy-rice-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 212.49px;
+  height: 121.92px;
+  object-fit: cover;
+}
+.thali {
+  position: absolute;
+  top: 710px;
+  left: 862.51px;
+  width: 212.49px;
+  height: 245px;
+  font-size: var(--font-size-2xl-9);
+}
+.chiccken-child {
+  position: absolute;
+  top: 50.22px;
+  left: 8.81px;
+  border-radius: 21.15px;
+  background-color: var(--color-darkslategray);
+  width: 133.04px;
+  height: 140.97px;
+}
+.chicken {
+  position: absolute;
+  top: 0;
+  left: 8.88px;
+  display: inline-block;
+  width: 93.24px;
+  height: 19.38px;
+}
+.starting-from-container5 {
+  top: 22.03px;
+  left: 13.32px;
+  width: 84.36px;
+  height: 31.72px;
+  font-size: var(--font-size-3xs-6);
+  color: var(--color-darkgray-100);
+}
+.div5,
+.starting-from-container5,
+.total-sale10 {
+  position: absolute;
+  display: inline-block;
+}
+.total-sale10 {
+  top: 53.24px;
+  left: 51.5px;
+  text-align: right;
+  width: 61.27px;
+  height: 23.04px;
+  font-size: var(--font-size-6xs-9);
+  color: var(--color-silver);
+}
+.div5 {
+  top: 59.91px;
+  left: 8.88px;
+  font-size: 9.57px;
+  color: var(--color-darkgray-200);
+  width: 24.86px;
+  height: 10.57px;
+}
+.chicken-price-child {
+  position: absolute;
+  top: 59.03px;
+  left: 0;
+  border-radius: 0.44px;
+  width: 11.54px;
+  height: 11.45px;
+  object-fit: cover;
+}
+.chicken-price {
+  position: absolute;
+  top: 103.96px;
+  left: 19.38px;
+  width: 112.77px;
+  height: 76.28px;
+}
+.f-610959654-h69as5xqmkedi4v9wv-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151.54px;
+  height: 101.32px;
+  object-fit: cover;
+}
+.chiccken,
+.d-path {
+  position: absolute;
+  top: 727.89px;
+  left: 1110.37px;
+  width: 151.54px;
+  height: 191.19px;
+}
+.d-path {
+  top: 121px;
+  left: 258px;
+  background-color: transparent;
+  width: 844px;
+  height: 589px;
+}
+.order-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 110.13px;
+  height: 176.21px;
+  object-fit: cover;
+}
+.order {
+  position: absolute;
+  top: 22.03px;
+  left: 16.74px;
+  letter-spacing: 0.12em;
+  display: inline-block;
+  width: 86.34px;
+  height: 28.19px;
+}
+.errow-icon {
+  position: absolute;
+  top: 59.03px;
+  left: 23.12px;
+  width: 64.63px;
+  height: 105.39px;
+  object-fit: cover;
+}
+.order-button {
+  position: absolute;
+  top: 14px;
+  left: 131px;
+  width: 110.13px;
+  height: 176.21px;
+  text-align: left;
+  font-size: 23.79px;
+}
+.cancel {
+  position: absolute;
+  top: 22.03px;
+  left: 12.33px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 89.87px;
+  height: 28.19px;
+}
+.errow-icon1 {
+  position: absolute;
+  top: 59.03px;
+  left: 22.91px;
+  width: 64.63px;
+  height: 105.39px;
+  object-fit: cover;
+}
+.cancel-button {
+  position: absolute;
+  top: 14px;
+  left: 1122px;
+  width: 110.13px;
+  height: 176.21px;
+  text-align: left;
+  font-size: 23.79px;
+}
+.back-btn-icon {
+  position: absolute;
+  top: 19px;
+  left: 32px;
+  width: 70px;
+  height: 71.71px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.p11-item {
+  position: absolute;
+  top: 397px;
+  left: 164.89px;
+  width: 42.29px;
+  height: 84.58px;
+  object-fit: contain;
+}
+.p11 {
+  position: relative;
+  background-color: #1d1d1d;
+  width: 100%;
+  height: 1252.84px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16.61px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

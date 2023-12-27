@@ -1,0 +1,1164 @@
+.bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180.47deg, #454545, #1d1d1d);
+  width: 287.94px;
+  height: 703.56px;
+}
+.bar-item {
+  position: absolute;
+  top: 136.49px;
+  left: 46.67px;
+  width: 54.59px;
+  height: 424.43px;
+  object-fit: cover;
+}
+.dashboard-icon-child,
+.dashboard-icon-inner,
+.dashboard-icon-item,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0.99px;
+  background-color: var(--color-tomato);
+  width: 9.87px;
+  height: 6.91px;
+}
+.dashboard-icon-inner,
+.dashboard-icon-item,
+.rectangle-div {
+  top: 13.81px;
+  left: 11.84px;
+}
+.dashboard-icon-inner,
+.rectangle-div {
+  top: 8.88px;
+  left: 0;
+  height: 11.84px;
+}
+.rectangle-div {
+  top: 0;
+  left: 11.84px;
+}
+.dashboard {
+  position: absolute;
+  top: 1.8px;
+  left: 90.65px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 101.5px;
+  height: 18.54px;
+}
+.bars-icons,
+.dashboard-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 192.15px;
+  height: 20.72px;
+}
+.bars-icons {
+  top: 201.86px;
+  left: 61.46px;
+  font-size: 15.96px;
+  color: var(--color-tomato);
+}
+.current-bar-icon,
+.tabels-icon {
+  position: absolute;
+  top: 208.69px;
+  left: 96.86px;
+  width: 7.83px;
+  height: 8.1px;
+  object-fit: cover;
+}
+.tabels-icon {
+  height: 100%;
+  width: 14.28%;
+  top: 0;
+  right: 85.72%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.orders {
+  color: #fff;
+  position: absolute;
+  top: 11.49px;
+  left: 93.84px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 93.2px;
+  height: 17.02px;
+}
+.orders-bar {
+  position: absolute;
+  height: 5.65%;
+  width: 64.96%;
+  top: 37.16%;
+  right: 14.8%;
+  bottom: 57.19%;
+  left: 20.24%;
+  cursor: pointer;
+}
+.bills-icon {
+  position: absolute;
+  height: 100%;
+  width: 12.54%;
+  top: 0;
+  right: 87.46%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bills {
+  color: white;
+  top: 1.28px;
+  left: 90.01px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 93.2px;
+  height: 17.02px;
+}
+.bills,
+.bills-bar,
+.d {
+  position: absolute;
+}
+.bills-bar {
+  height: 2.86%;
+  width: 63.63%;
+  top: 48.51%;
+  right: 14.8%;
+  bottom: 48.64%;
+  left: 21.57%;
+  cursor: pointer;
+}
+.d {
+  top: 8.93px;
+  left: 6.6px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 22.89px;
+  height: 17.61px;
+}
+.d-mode-icon-child {
+  position: absolute;
+  top: 0;
+  left: 16.29px;
+  width: 16.73px;
+  height: 12.89px;
+  object-fit: cover;
+}
+.d-mode-icon-item {
+  position: absolute;
+  top: 20.69px;
+  left: 0;
+  width: 16.29px;
+  height: 13.33px;
+  object-fit: contain;
+}
+.d-mode-icon,
+.d-models {
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33.02px;
+  height: 34.02px;
+}
+.d-models {
+  top: 8.62px;
+  left: 95.76px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 93.2px;
+  height: 17.02px;
+}
+.d-models-bar {
+  position: absolute;
+  top: 397.13px;
+  left: 56.36px;
+  width: 188.96px;
+  height: 34.02px;
+  cursor: pointer;
+}
+.logout-icon {
+  position: absolute;
+  height: 100%;
+  width: 14.97%;
+  top: 0;
+  right: 85.03%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.logout {
+  position: absolute;
+  top: 5.75px;
+  left: 91.29px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 93.2px;
+  height: 17.02px;
+}
+.logout-botton {
+  position: absolute;
+  height: 3.93%;
+  width: 64.07%;
+  top: 66.38%;
+  right: 14.8%;
+  bottom: 29.69%;
+  left: 21.12%;
+}
+.nottificaton-btn-icon,
+.setting-button-icon {
+  position: absolute;
+  top: 575.75px;
+  left: 104.69px;
+  width: 37.66px;
+  height: 37.03px;
+  object-fit: cover;
+}
+.nottificaton-btn-icon {
+  left: 171.72px;
+}
+.bar {
+  position: absolute;
+  top: -4.4px;
+  left: -45.79px;
+  width: 287.94px;
+  height: 703.56px;
+  font-size: 14.65px;
+}
+.search-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 798.93px;
+  height: 31.25px;
+  object-fit: cover;
+}
+.search-restaurant-food {
+  position: absolute;
+  top: 10.57px;
+  left: 253.8px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 290.72px;
+  height: 9.88px;
+}
+.search-btn {
+  position: absolute;
+  top: 29.06px;
+  left: 312.6px;
+  width: 798.93px;
+  height: 31.25px;
+  font-size: 11.93px;
+  color: rgba(255, 255, 255, 0.55);
+}
+.categories,
+.order-reports,
+.popular-dishes,
+.popular-dishes1 {
+  position: absolute;
+  top: 79.25px;
+  left: 313.48px;
+  font-size: 22.58px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 149.69px;
+  height: 24.66px;
+}
+.order-reports,
+.popular-dishes,
+.popular-dishes1 {
+  top: 283.6px;
+  left: 312.6px;
+  font-size: 20.48px;
+  width: 200.94px;
+  height: 23.34px;
+}
+.order-reports,
+.popular-dishes1 {
+  top: 283.54px;
+}
+.order-reports {
+  top: 595.26px;
+}
+.new-categories-added {
+  color: var(--color-white);
+}
+.new-categories-added-container,
+.new-dishes-added-container,
+.wow-100-new-container {
+  position: absolute;
+  top: 113.85px;
+  left: 312.98px;
+  font-size: 12.28px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 271.72px;
+  height: 13.19px;
+  color: var(--color-tomato);
+}
+.new-dishes-added-container,
+.wow-100-new-container {
+  top: 317.26px;
+  left: 312.6px;
+}
+.wow-100-new-container {
+  top: 628.92px;
+}
+.holo-web-child {
+  position: absolute;
+  top: 159.61px;
+  left: 331.02px;
+  border-radius: 50%;
+  width: 87.91px;
+  height: 87.91px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.holo-web-child1,
+.holo-web-child2,
+.holo-web-child3,
+.holo-web-inner,
+.holo-web-item {
+  position: absolute;
+  top: 159.61px;
+  left: 457.01px;
+  border-radius: 50%;
+  width: 87.91px;
+  height: 87.91px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.holo-web-child1,
+.holo-web-child2,
+.holo-web-child3,
+.holo-web-inner {
+  left: 582.93px;
+}
+.ellipse-icon,
+.holo-web-child1,
+.holo-web-child2,
+.holo-web-child3 {
+  top: 159.38px;
+  left: 708.85px;
+}
+.holo-web-child1,
+.holo-web-child2,
+.holo-web-child3 {
+  top: 159.61px;
+  left: 834.77px;
+}
+.holo-web-child2,
+.holo-web-child3 {
+  left: 960.69px;
+}
+.holo-web-child3 {
+  left: 1086.61px;
+}
+.group-child,
+.view-more {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.view-more {
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 105.49px;
+  height: 20.85px;
+}
+.group-child {
+  border-radius: 4.19px;
+  background-color: var(--color-dimgray);
+  width: 17.58px;
+  height: 21.77px;
+}
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 10.69px;
+  left: 11.12px;
+  border-radius: 3.35px;
+  background-color: var(--color-white);
+  width: 1.19px;
+  height: 7.32px;
+  transform: rotate(42.94deg);
+  transform-origin: 0 0;
+}
+.group-inner {
+  position: absolute;
+  top: 6.63px;
+  left: 6.40px;
+  border-radius: 3.35px;
+  background-color: var(--color-white);
+  width: 1.19px;
+  height: 7.32px;
+  transform: rotate(-42.94deg);
+
+
+}
+.rectangle-parent {
+  position: absolute;
+  top: 1.64px;
+  left: 96.28px;
+  width: 17.58px;
+  height: 21.77px;
+}
+.view-more-btn1,
+.view-more-btn11 {
+  position: absolute;
+  top: 106.47px;
+  left: 1066.96px;
+  width: 113.87px;
+  height: 23.4px;
+  font-size: 14.72px;
+  font-family: var(--font-inter);
+}
+.view-more-btn11 {
+  top: 302.91px;
+  left: 1068.11px;
+}
+.view-more-btn1-child {
+  position: absolute;
+  top: 3.63px;
+  left: 94.11px;
+  width: 21.93px;
+  height: 17.78px;
+  object-fit: contain;
+}
+.view-more-btn12 {
+  position: absolute;
+  top: 886.72px;
+  left: 690.36px;
+  width: 116.04px;
+  height: 21.41px;
+  font-size: 14.72px;
+  font-family: var(--font-inter);
+}
+.hamburger-child {
+  position: absolute;
+  top: 95.3px;
+  left: 20.45px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.hamburger-with-lot-vegetables-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 175.63px;
+  height: 175.63px;
+  object-fit: contain;
+}
+.hamburger1 {
+  color: #fff;
+  position: absolute;
+  top: 0;
+  left: 8.81px;
+  display: inline-block;
+  text-align: left;
+  width: 92.46px;
+  height: 19.37px;
+}
+.p,
+.starting-from {
+  margin-block-start: 0;
+  margin-block-end: 0.88px;
+}
+.p {
+  font-size: var(--font-size-sm-1);
+  color: var(--color-white);
+}
+.p1 {
+  margin: 0;
+  font-size: var(--font-size-base-6);
+}
+.starting-from-container {
+  position: absolute;
+  top: 22.01px;
+  left: 13.21px;
+  display: inline-block;
+  width: 83.65px;
+  height: 31.7px;
+  font-size: var(--font-size-3xs-6);
+  color: var(--color-darkgray-100);
+}
+.span {
+  color: var(--color-darkgray-200);
+}
+.p2,
+.total-sale1 {
+  margin-block-start: 0;
+  margin-block-end: 0.64px;
+}
+.total-sale1 {
+  font-size: var(--font-size-3xs-5);
+  color: var(--color-white);
+}
+.p3 {
+  margin: 0;
+  font-size: var(--font-size-smi-1);
+}
+.div,
+.total-sale {
+  position: absolute;
+  display: inline-block;
+}
+.total-sale {
+  top: 53.21px;
+  left: 51.07px;
+  text-align: right;
+  width: 60.76px;
+  height: 23.02px;
+  font-size: var(--font-size-6xs-9);
+  color: var(--color-silver);
+}
+.div {
+  top: 59.88px;
+  left: 8.81px;
+  font-size: 9.56px;
+  color: var(--color-darkgray-200);
+  width: 24.66px;
+  height: 10.57px;
+}
+.hamburger-price-child {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  border-radius: 0.44px;
+  width: 11.45px;
+  height: 11.45px;
+  object-fit: cover;
+}
+.hamburger,
+.hamburger-price {
+  position: absolute;
+  top: 150.77px;
+  left: 31.9px;
+  width: 111.83px;
+  height: 76.23px;
+}
+.hamburger {
+  top: 315.04px;
+  left: 283.34px;
+  width: 175.63px;
+  height: 236.19px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.pizza-child {
+  position: absolute;
+  top: 66.04px;
+  left: 21.13px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.f-560708240-pmzpousfvblwgroaiz-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 181.39px;
+  height: 120.93px;
+  object-fit: cover;
+}
+.pizza1 {
+  position: absolute;
+  top: 0;
+  left: 8.81px;
+  display: inline-block;
+  width: 92.46px;
+  height: 19.37px;
+}
+.pizza,
+.pizza-price {
+  position: absolute;
+  top: 121.52px;
+  left: 31.7px;
+  width: 111.83px;
+  height: 76.23px;
+}
+.pizza {
+  top: 344.3px;
+  left: 442.24px;
+  width: 181.39px;
+  height: 206.93px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.sushi-child {
+  position: absolute;
+  top: 34.22px;
+  left: 6.16px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.sushi-price {
+  position: absolute;
+  top: 89.69px;
+  left: 16.73px;
+  width: 111.83px;
+  height: 76.23px;
+}
+.fresh-seafood-plate-with-sashi-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 146.17px;
+  height: 83.59px;
+  object-fit: cover;
+}
+.sushi {
+  position: absolute;
+  top: 376.12px;
+  left: 616.59px;
+  width: 146.17px;
+  height: 175.11px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.fried-fish-child {
+  position: absolute;
+  top: 88.94px;
+  left: 7.04px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.fried-fish-price {
+  position: absolute;
+  top: 142.65px;
+  left: 17.61px;
+  width: 111.83px;
+  height: 76.23px;
+}
+.grilled-salmon-delicious-food-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 140.89px;
+  height: 142.65px;
+  object-fit: cover;
+}
+.fried-fish {
+  position: absolute;
+  top: 323.16px;
+  left: 775.77px;
+  width: 140.89px;
+  height: 229.82px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.thali-child {
+  position: absolute;
+  top: 44.91px;
+  left: 16.73px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.thali1 {
+  position: absolute;
+  top: 0;
+  left: 8.88px;
+  display: inline-block;
+  width: 93.19px;
+  height: 19.37px;
+}
+.starting-from-container4 {
+  top: 22.01px;
+  left: 13.31px;
+  width: 84.31px;
+  height: 31.7px;
+  font-size: var(--font-size-3xs-6);
+  color: var(--color-darkgray-100);
+}
+.div4,
+.starting-from-container4,
+.total-sale8 {
+  position: absolute;
+  display: inline-block;
+}
+.total-sale8 {
+  top: 53.21px;
+  left: 51.47px;
+  text-align: right;
+  width: 61.24px;
+  height: 23.02px;
+  font-size: var(--font-size-6xs-9);
+  color: var(--color-silver);
+}
+.div4 {
+  top: 59.88px;
+  left: 8.88px;
+  font-size: 9.56px;
+  color: var(--color-darkgray-200);
+  width: 24.85px;
+  height: 10.57px;
+}
+.thali-price-child {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  border-radius: 0.44px;
+  width: 11.54px;
+  height: 11.45px;
+  object-fit: cover;
+}
+.thali-price {
+  position: absolute;
+  top: 98.62px;
+  left: 27.3px;
+  width: 112.71px;
+  height: 76.23px;
+}
+.gourmet-bowl-with-healthy-rice-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 161.14px;
+  height: 92.46px;
+  object-fit: cover;
+}
+.thali {
+  position: absolute;
+  top: 367.19px;
+  left: 925.46px;
+  width: 161.14px;
+  height: 185.8px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.chiccken-child {
+  position: absolute;
+  top: 50.19px;
+  left: 8.81px;
+  border-radius: 21.13px;
+  background-color: var(--color-darkslategray);
+  width: 132.96px;
+  height: 140.89px;
+}
+.chicken,
+.div5 {
+  position: absolute;
+  top: 0;
+  left: 8.87px;
+  display: inline-block;
+  width: 93.19px;
+  height: 19.37px;
+}
+.div5 {
+  top: 59.88px;
+  font-size: 9.56px;
+  color: var(--color-darkgray-200);
+  width: 24.85px;
+  height: 10.57px;
+}
+.chicken-price {
+  position: absolute;
+  top: 103.91px;
+  left: 19.37px;
+  width: 112.71px;
+  height: 76.23px;
+}
+.f-610959654-h69as5xqmkedi4v9wv-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 151.46px;
+  height: 101.26px;
+  object-fit: cover;
+}
+.chiccken {
+  position: absolute;
+  top: 361.91px;
+  left: 1092.77px;
+  width: 151.46px;
+  height: 191.08px;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.dash-orders-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 29.54px;
+  background: linear-gradient(107.36deg, #494949, #272727);
+  width: 889.57px;
+  height: 35.45px;
+}
+.amount,
+.customer,
+.dishes,
+.order-number,
+.status {
+  position: absolute;
+  top: 8.48px;
+  left: 23.1px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 119.76px;
+  height: 17.61px;
+}
+.amount,
+.dishes,
+.order-number,
+.status {
+  left: 237.96px;
+  width: 136.49px;
+}
+.amount,
+.dishes,
+.status {
+  left: 466.9px;
+  width: 62.52px;
+}
+.amount,
+.status {
+  left: 632.45px;
+  width: 77.49px;
+}
+.status {
+  left: 797.99px;
+  width: 63.4px;
+}
+.dash-orders {
+  position: absolute;
+  top: 664.27px;
+  left: 306.22px;
+  width: 889.57px;
+  height: 35.45px;
+  font-size: 16.48px;
+}
+.mukesh-ambani {
+  top: 13.95px;
+  left: 58.12px;
+  width: 125.04px;
+  height: 14.37px;
+}
+.b,
+.b1,
+.hamburger-4,
+.mukesh-ambani {
+  position: absolute;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+}
+.b {
+  top: 11.45px;
+  left: 293.23px;
+  font-size: 17.59px;
+  text-align: center;
+  width: 29.94px;
+  height: 18.42px;
+}
+.b1,
+.hamburger-4 {
+  top: 12.33px;
+  left: 441.16px;
+  width: 117.11px;
+  height: 14.09px;
+}
+.b1 {
+  left: 638.4px;
+  width: 68.68px;
+}
+.completed-btn-child,
+.white-icon {
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+}
+.white-icon {
+  left: calc(50% - 443.36px);
+  border-radius: 24.66px;
+  width: 44.03px;
+  height: 44.03px;
+}
+.completed-btn-child {
+  left: 0;
+  border-radius: 22.01px;
+  width: 119.76px;
+  height: 24.66px;
+}
+.completed {
+  position: absolute;
+  top: 5.28px;
+  left: 19.37px;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+  width: 81.89px;
+  height: 14.09px;
+}
+.completed-btn,
+.mukesh-order {
+  position: absolute;
+  top: 6.16px;
+  left: 766.96px;
+  width: 119.76px;
+  height: 24.66px;
+}
+.mukesh-order {
+  top: 719.41px;
+  left: 304.67px;
+  width: 886.72px;
+  height: 44.03px;
+  font-size: 13.45px;
+}
+.elon-musk {
+  top: 14.83px;
+  left: 59.88px;
+  text-align: left;
+  width: 125.04px;
+  height: 14.37px;
+}
+.b2,
+.b3,
+.elon-musk,
+.thali2 {
+  position: absolute;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+}
+.b2 {
+  top: 12.33px;
+  left: 294.99px;
+  font-size: 17.59px;
+  width: 29.94px;
+  height: 18.42px;
+}
+.b3,
+.thali2 {
+  top: 13.21px;
+  left: 442.92px;
+  width: 117.11px;
+  height: 14.09px;
+}
+.b3 {
+  left: 640.16px;
+  width: 68.68px;
+}
+.pending-btn {
+  position: absolute;
+  top: 7.04px;
+  left: 768.72px;
+  width: 119.76px;
+  height: 24.66px;
+}
+.elon-order,
+.white-icon1 {
+  position: absolute;
+  height: 44.03px;
+}
+.white-icon1 {
+  top: 0;
+  left: calc(50% - 444.24px);
+  border-radius: 53.71px;
+  width: 44.03px;
+  object-fit: cover;
+}
+.elon-order {
+  top: 771.37px;
+  left: 302.91px;
+  width: 888.48px;
+  text-align: center;
+  font-size: 13.45px;
+}
+.cristiano-ronaldo {
+  top: 14.97px;
+  left: 58.12px;
+  text-align: left;
+  width: 144.41px;
+  height: 14.09px;
+}
+.b4,
+.cristiano-ronaldo,
+.sushi-2 {
+  position: absolute;
+  letter-spacing: 0.1em;
+  line-height: 164.8%;
+  display: inline-block;
+}
+.b4 {
+  top: 12.33px;
+  left: 293.23px;
+  font-size: 17.59px;
+  width: 29.94px;
+  height: 18.42px;
+}
+.sushi-2 {
+  top: 13.21px;
+  left: 441.16px;
+  width: 117.11px;
+  height: 14.09px;
+}
+.completed-btn1 {
+  position: absolute;
+  top: 6.16px;
+  left: 766.96px;
+  width: 119.76px;
+  height: 24.66px;
+  text-align: left;
+}
+.cr-order,
+.images-1-icon {
+  position: absolute;
+  height: 44.03px;
+}
+.images-1-icon {
+  top: 0;
+  left: 0;
+  border-radius: 440.28px;
+  width: 44.03px;
+  object-fit: cover;
+}
+.cr-order {
+  top: 825.08px;
+  left: 304.67px;
+  width: 886.72px;
+  text-align: center;
+  font-size: 13.45px;
+}
+.holo-web-child4 {
+  position: absolute;
+  top: 12.33px;
+  left: 1134.16px;
+  border-radius: 50%;
+  width: 64.28px;
+  height: 64.28px;
+  object-fit: cover;
+}
+.holo-web-child5 {
+  position: absolute;
+  top: 954.52px;
+  left: 0;
+  background-color: #151515;
+  width: 1268px;
+  height: 297.63px;
+}
+.holo-logo,
+.logo-icon {
+  position: absolute;
+  width: 153.22px;
+  height: 153.22px;
+}
+.logo-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.holo-logo {
+  top: 979.18px;
+  left: 223.66px;
+}
+.fees,
+.press,
+.team {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+.fees,
+.press {
+  top: 65.16px;
+}
+.fees {
+  top: 130.32px;
+  left: 0.88px;
+}
+.team-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 156.32px;
+}
+.links,
+.services-parent,
+.terms-of-use-parent {
+  position: absolute;
+  top: 0;
+  left: 141.77px;
+  width: 67px;
+  height: 156.32px;
+}
+.links,
+.terms-of-use-parent {
+  left: 305.55px;
+  width: 109px;
+}
+.links {
+  top: 1024.97px;
+  left: 624.31px;
+  width: 414.55px;
+  font-size: 17.61px;
+  font-family: var(--font-roboto);
+}
+.all-right-reserved {
+  margin: 0;
+}
+.copyright-2023-container {
+  position: absolute;
+  top: 1113.02px;
+  left: 217.5px;
+  font-size: 17.61px;
+  line-height: 150%;
+  font-family: var(--font-roboto);
+}
+.logo-icon1 {
+  position: absolute;
+  top: -7.04px;
+  left: 39.63px;
+  width: 160.26px;
+  height: 160.26px;
+  object-fit: cover;
+}
+.holo-web {
+  position: relative;
+  background-color: #1d1d1d;
+  width: 100%;
+  height: 1252.15px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base-6);
+  color: var(--color-white);
+  font-family: var(--font-noto-sans-javanese);
+}

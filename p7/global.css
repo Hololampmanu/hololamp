@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-sans-javanese: "Noto Sans Javanese";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl-2: 20.2px;
+  --font-size-lg-8: 18.8px;
+  --font-size-mid: 17px;
+  --font-size-mid-6: 17.6px;
+  --font-size-mini-7: 14.7px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.9);
+  --color-white: #fff;
+  --color-mistyrose: #ffd8d8;
+  --color-tomato: #ee5d55;
+
+  /* Border radiuses */
+  --br-9xs-6: 3.6px;
+  --br-12xs: 1px;
+}
